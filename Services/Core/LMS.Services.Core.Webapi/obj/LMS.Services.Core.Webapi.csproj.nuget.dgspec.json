@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\MyProjects\\KEEPNET\\SEND_PROJECT\\Services\\Core\\LMS.Services.Core.Webapi\\LMS.Services.Core.Webapi.csproj": {}
+    "C:\\MyProjects\\KEEPNET\\SHARE_PROJECT\\Services\\Core\\LMS.Services.Core.Webapi\\LMS.Services.Core.Webapi.csproj": {}
   },
   "projects": {
-    "C:\\MyProjects\\KEEPNET\\SEND_PROJECT\\Services\\Core\\LMS.Services.Core.Domain\\LMS.Services.Core.Domain.csproj": {
+    "C:\\MyProjects\\KEEPNET\\SHARE_PROJECT\\Services\\Core\\LMS.Services.Core.Domain\\LMS.Services.Core.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MyProjects\\KEEPNET\\SEND_PROJECT\\Services\\Core\\LMS.Services.Core.Domain\\LMS.Services.Core.Domain.csproj",
+        "projectUniqueName": "C:\\MyProjects\\KEEPNET\\SHARE_PROJECT\\Services\\Core\\LMS.Services.Core.Domain\\LMS.Services.Core.Domain.csproj",
         "projectName": "LMS.Services.Core.Domain",
-        "projectPath": "C:\\MyProjects\\KEEPNET\\SEND_PROJECT\\Services\\Core\\LMS.Services.Core.Domain\\LMS.Services.Core.Domain.csproj",
+        "projectPath": "C:\\MyProjects\\KEEPNET\\SHARE_PROJECT\\Services\\Core\\LMS.Services.Core.Domain\\LMS.Services.Core.Domain.csproj",
         "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "C:\\MyProjects\\KEEPNET\\SEND_PROJECT\\Services\\Core\\LMS.Services.Core.Domain\\obj\\",
+        "outputPath": "C:\\MyProjects\\KEEPNET\\SHARE_PROJECT\\Services\\Core\\LMS.Services.Core.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -66,14 +66,14 @@
         }
       }
     },
-    "C:\\MyProjects\\KEEPNET\\SEND_PROJECT\\Services\\Core\\LMS.Services.Core.Dto\\LMS.Services.Core.Dto.csproj": {
+    "C:\\MyProjects\\KEEPNET\\SHARE_PROJECT\\Services\\Core\\LMS.Services.Core.Dto\\LMS.Services.Core.Dto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MyProjects\\KEEPNET\\SEND_PROJECT\\Services\\Core\\LMS.Services.Core.Dto\\LMS.Services.Core.Dto.csproj",
+        "projectUniqueName": "C:\\MyProjects\\KEEPNET\\SHARE_PROJECT\\Services\\Core\\LMS.Services.Core.Dto\\LMS.Services.Core.Dto.csproj",
         "projectName": "LMS.Services.Core.Dto",
-        "projectPath": "C:\\MyProjects\\KEEPNET\\SEND_PROJECT\\Services\\Core\\LMS.Services.Core.Dto\\LMS.Services.Core.Dto.csproj",
+        "projectPath": "C:\\MyProjects\\KEEPNET\\SHARE_PROJECT\\Services\\Core\\LMS.Services.Core.Dto\\LMS.Services.Core.Dto.csproj",
         "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "C:\\MyProjects\\KEEPNET\\SEND_PROJECT\\Services\\Core\\LMS.Services.Core.Dto\\obj\\",
+        "outputPath": "C:\\MyProjects\\KEEPNET\\SHARE_PROJECT\\Services\\Core\\LMS.Services.Core.Dto\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -128,14 +128,14 @@
         }
       }
     },
-    "C:\\MyProjects\\KEEPNET\\SEND_PROJECT\\Services\\Core\\LMS.Services.Core.Repository\\LMS.Services.Core.Repository.csproj": {
+    "C:\\MyProjects\\KEEPNET\\SHARE_PROJECT\\Services\\Core\\LMS.Services.Core.Repository\\LMS.Services.Core.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MyProjects\\KEEPNET\\SEND_PROJECT\\Services\\Core\\LMS.Services.Core.Repository\\LMS.Services.Core.Repository.csproj",
+        "projectUniqueName": "C:\\MyProjects\\KEEPNET\\SHARE_PROJECT\\Services\\Core\\LMS.Services.Core.Repository\\LMS.Services.Core.Repository.csproj",
         "projectName": "LMS.Services.Core.Repository",
-        "projectPath": "C:\\MyProjects\\KEEPNET\\SEND_PROJECT\\Services\\Core\\LMS.Services.Core.Repository\\LMS.Services.Core.Repository.csproj",
+        "projectPath": "C:\\MyProjects\\KEEPNET\\SHARE_PROJECT\\Services\\Core\\LMS.Services.Core.Repository\\LMS.Services.Core.Repository.csproj",
         "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "C:\\MyProjects\\KEEPNET\\SEND_PROJECT\\Services\\Core\\LMS.Services.Core.Repository\\obj\\",
+        "outputPath": "C:\\MyProjects\\KEEPNET\\SHARE_PROJECT\\Services\\Core\\LMS.Services.Core.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -157,8 +157,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\MyProjects\\KEEPNET\\SEND_PROJECT\\Services\\Core\\LMS.Services.Core.Domain\\LMS.Services.Core.Domain.csproj": {
-                "projectPath": "C:\\MyProjects\\KEEPNET\\SEND_PROJECT\\Services\\Core\\LMS.Services.Core.Domain\\LMS.Services.Core.Domain.csproj"
+              "C:\\MyProjects\\KEEPNET\\SHARE_PROJECT\\Services\\Core\\LMS.Services.Core.Domain\\LMS.Services.Core.Domain.csproj": {
+                "projectPath": "C:\\MyProjects\\KEEPNET\\SHARE_PROJECT\\Services\\Core\\LMS.Services.Core.Domain\\LMS.Services.Core.Domain.csproj"
               }
             }
           }
@@ -203,14 +203,14 @@
         }
       }
     },
-    "C:\\MyProjects\\KEEPNET\\SEND_PROJECT\\Services\\Core\\LMS.Services.Core.Service\\LMS.Services.Core.Service.csproj": {
+    "C:\\MyProjects\\KEEPNET\\SHARE_PROJECT\\Services\\Core\\LMS.Services.Core.Service\\LMS.Services.Core.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MyProjects\\KEEPNET\\SEND_PROJECT\\Services\\Core\\LMS.Services.Core.Service\\LMS.Services.Core.Service.csproj",
+        "projectUniqueName": "C:\\MyProjects\\KEEPNET\\SHARE_PROJECT\\Services\\Core\\LMS.Services.Core.Service\\LMS.Services.Core.Service.csproj",
         "projectName": "LMS.Services.Core.Service",
-        "projectPath": "C:\\MyProjects\\KEEPNET\\SEND_PROJECT\\Services\\Core\\LMS.Services.Core.Service\\LMS.Services.Core.Service.csproj",
+        "projectPath": "C:\\MyProjects\\KEEPNET\\SHARE_PROJECT\\Services\\Core\\LMS.Services.Core.Service\\LMS.Services.Core.Service.csproj",
         "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "C:\\MyProjects\\KEEPNET\\SEND_PROJECT\\Services\\Core\\LMS.Services.Core.Service\\obj\\",
+        "outputPath": "C:\\MyProjects\\KEEPNET\\SHARE_PROJECT\\Services\\Core\\LMS.Services.Core.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -232,14 +232,14 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\MyProjects\\KEEPNET\\SEND_PROJECT\\Services\\Core\\LMS.Services.Core.Domain\\LMS.Services.Core.Domain.csproj": {
-                "projectPath": "C:\\MyProjects\\KEEPNET\\SEND_PROJECT\\Services\\Core\\LMS.Services.Core.Domain\\LMS.Services.Core.Domain.csproj"
+              "C:\\MyProjects\\KEEPNET\\SHARE_PROJECT\\Services\\Core\\LMS.Services.Core.Domain\\LMS.Services.Core.Domain.csproj": {
+                "projectPath": "C:\\MyProjects\\KEEPNET\\SHARE_PROJECT\\Services\\Core\\LMS.Services.Core.Domain\\LMS.Services.Core.Domain.csproj"
               },
-              "C:\\MyProjects\\KEEPNET\\SEND_PROJECT\\Services\\Core\\LMS.Services.Core.Dto\\LMS.Services.Core.Dto.csproj": {
-                "projectPath": "C:\\MyProjects\\KEEPNET\\SEND_PROJECT\\Services\\Core\\LMS.Services.Core.Dto\\LMS.Services.Core.Dto.csproj"
+              "C:\\MyProjects\\KEEPNET\\SHARE_PROJECT\\Services\\Core\\LMS.Services.Core.Dto\\LMS.Services.Core.Dto.csproj": {
+                "projectPath": "C:\\MyProjects\\KEEPNET\\SHARE_PROJECT\\Services\\Core\\LMS.Services.Core.Dto\\LMS.Services.Core.Dto.csproj"
               },
-              "C:\\MyProjects\\KEEPNET\\SEND_PROJECT\\Services\\Core\\LMS.Services.Core.Repository\\LMS.Services.Core.Repository.csproj": {
-                "projectPath": "C:\\MyProjects\\KEEPNET\\SEND_PROJECT\\Services\\Core\\LMS.Services.Core.Repository\\LMS.Services.Core.Repository.csproj"
+              "C:\\MyProjects\\KEEPNET\\SHARE_PROJECT\\Services\\Core\\LMS.Services.Core.Repository\\LMS.Services.Core.Repository.csproj": {
+                "projectPath": "C:\\MyProjects\\KEEPNET\\SHARE_PROJECT\\Services\\Core\\LMS.Services.Core.Repository\\LMS.Services.Core.Repository.csproj"
               }
             }
           }
@@ -278,14 +278,14 @@
         }
       }
     },
-    "C:\\MyProjects\\KEEPNET\\SEND_PROJECT\\Services\\Core\\LMS.Services.Core.Webapi\\LMS.Services.Core.Webapi.csproj": {
+    "C:\\MyProjects\\KEEPNET\\SHARE_PROJECT\\Services\\Core\\LMS.Services.Core.Webapi\\LMS.Services.Core.Webapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MyProjects\\KEEPNET\\SEND_PROJECT\\Services\\Core\\LMS.Services.Core.Webapi\\LMS.Services.Core.Webapi.csproj",
+        "projectUniqueName": "C:\\MyProjects\\KEEPNET\\SHARE_PROJECT\\Services\\Core\\LMS.Services.Core.Webapi\\LMS.Services.Core.Webapi.csproj",
         "projectName": "LMS.Services.Core.Webapi",
-        "projectPath": "C:\\MyProjects\\KEEPNET\\SEND_PROJECT\\Services\\Core\\LMS.Services.Core.Webapi\\LMS.Services.Core.Webapi.csproj",
+        "projectPath": "C:\\MyProjects\\KEEPNET\\SHARE_PROJECT\\Services\\Core\\LMS.Services.Core.Webapi\\LMS.Services.Core.Webapi.csproj",
         "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "C:\\MyProjects\\KEEPNET\\SEND_PROJECT\\Services\\Core\\LMS.Services.Core.Webapi\\obj\\",
+        "outputPath": "C:\\MyProjects\\KEEPNET\\SHARE_PROJECT\\Services\\Core\\LMS.Services.Core.Webapi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -307,11 +307,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\MyProjects\\KEEPNET\\SEND_PROJECT\\Services\\Core\\LMS.Services.Core.Repository\\LMS.Services.Core.Repository.csproj": {
-                "projectPath": "C:\\MyProjects\\KEEPNET\\SEND_PROJECT\\Services\\Core\\LMS.Services.Core.Repository\\LMS.Services.Core.Repository.csproj"
+              "C:\\MyProjects\\KEEPNET\\SHARE_PROJECT\\Services\\Core\\LMS.Services.Core.Repository\\LMS.Services.Core.Repository.csproj": {
+                "projectPath": "C:\\MyProjects\\KEEPNET\\SHARE_PROJECT\\Services\\Core\\LMS.Services.Core.Repository\\LMS.Services.Core.Repository.csproj"
               },
-              "C:\\MyProjects\\KEEPNET\\SEND_PROJECT\\Services\\Core\\LMS.Services.Core.Service\\LMS.Services.Core.Service.csproj": {
-                "projectPath": "C:\\MyProjects\\KEEPNET\\SEND_PROJECT\\Services\\Core\\LMS.Services.Core.Service\\LMS.Services.Core.Service.csproj"
+              "C:\\MyProjects\\KEEPNET\\SHARE_PROJECT\\Services\\Core\\LMS.Services.Core.Service\\LMS.Services.Core.Service.csproj": {
+                "projectPath": "C:\\MyProjects\\KEEPNET\\SHARE_PROJECT\\Services\\Core\\LMS.Services.Core.Service\\LMS.Services.Core.Service.csproj"
               }
             }
           }

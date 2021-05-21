@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9HD+pAWTt7hIgz+pTjcmNN4seXOLwUGGSuY4g8q7D2t5Kr0BICSJ71rQjqFA/iYHN0Ia6iPUI94N3dkGp6Lwkg==",
+  "dgSpecHash": "eOk9jB0mcdyzNnQ1W3Ai0zj1O8kWTkq+fAMDi9/rqf78IlW4w9q12OlIOEmEzmDol7elukoy27i8OfdQxIaFYg==",
   "success": true,
-  "projectFilePath": "C:\\MyProjects\\KEEPNET\\SEND_PROJECT\\Services\\Core\\LMS.Services.Core.Service\\LMS.Services.Core.Service.csproj",
+  "projectFilePath": "C:\\MyProjects\\KEEPNET\\SHARE_PROJECT\\Services\\Core\\LMS.Services.Core.Service\\LMS.Services.Core.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Acer\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\Acer\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",

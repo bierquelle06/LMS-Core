@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lutoOsUhlzE3C17lKo0P5Dg/Q7XZQd4i2bUvbVyEhQIsuNt4stmNh/CxTb2bZ+qGjJ8Oo49+cuRVusi9vsX8Dg==",
+  "dgSpecHash": "ELKMFXzOgiAEHVNrpNUaRC2lym6yYEsevafzaHFZmrtxM+eQv4dpABYs6Zx0J6jM3WnVP0uGT6hkKMIK4tkGEg==",
   "success": true,
-  "projectFilePath": "C:\\MyProjects\\KEEPNET\\SEND_PROJECT\\Services\\Core\\LMS.Services.Core.Repository\\LMS.Services.Core.Repository.csproj",
+  "projectFilePath": "C:\\MyProjects\\KEEPNET\\SHARE_PROJECT\\Services\\Core\\LMS.Services.Core.Repository\\LMS.Services.Core.Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Acer\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Acer\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

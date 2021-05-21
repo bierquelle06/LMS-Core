@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\MyProjects\\KEEPNET\\SEND_PROJECT\\Web\\TestWebApp\\TestWebApp.csproj": {}
+    "C:\\MyProjects\\KEEPNET\\SHARE_PROJECT\\Web\\TestWebApp\\TestWebApp.csproj": {}
   },
   "projects": {
-    "C:\\MyProjects\\KEEPNET\\SEND_PROJECT\\Services\\Core\\LMS.Services.Core.Dto\\LMS.Services.Core.Dto.csproj": {
+    "C:\\MyProjects\\KEEPNET\\SHARE_PROJECT\\Services\\Core\\LMS.Services.Core.Dto\\LMS.Services.Core.Dto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MyProjects\\KEEPNET\\SEND_PROJECT\\Services\\Core\\LMS.Services.Core.Dto\\LMS.Services.Core.Dto.csproj",
+        "projectUniqueName": "C:\\MyProjects\\KEEPNET\\SHARE_PROJECT\\Services\\Core\\LMS.Services.Core.Dto\\LMS.Services.Core.Dto.csproj",
         "projectName": "LMS.Services.Core.Dto",
-        "projectPath": "C:\\MyProjects\\KEEPNET\\SEND_PROJECT\\Services\\Core\\LMS.Services.Core.Dto\\LMS.Services.Core.Dto.csproj",
+        "projectPath": "C:\\MyProjects\\KEEPNET\\SHARE_PROJECT\\Services\\Core\\LMS.Services.Core.Dto\\LMS.Services.Core.Dto.csproj",
         "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "C:\\MyProjects\\KEEPNET\\SEND_PROJECT\\Services\\Core\\LMS.Services.Core.Dto\\obj\\",
+        "outputPath": "C:\\MyProjects\\KEEPNET\\SHARE_PROJECT\\Services\\Core\\LMS.Services.Core.Dto\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -66,14 +66,14 @@
         }
       }
     },
-    "C:\\MyProjects\\KEEPNET\\SEND_PROJECT\\Web\\TestWebApp\\TestWebApp.csproj": {
+    "C:\\MyProjects\\KEEPNET\\SHARE_PROJECT\\Web\\TestWebApp\\TestWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MyProjects\\KEEPNET\\SEND_PROJECT\\Web\\TestWebApp\\TestWebApp.csproj",
+        "projectUniqueName": "C:\\MyProjects\\KEEPNET\\SHARE_PROJECT\\Web\\TestWebApp\\TestWebApp.csproj",
         "projectName": "TestWebApp",
-        "projectPath": "C:\\MyProjects\\KEEPNET\\SEND_PROJECT\\Web\\TestWebApp\\TestWebApp.csproj",
+        "projectPath": "C:\\MyProjects\\KEEPNET\\SHARE_PROJECT\\Web\\TestWebApp\\TestWebApp.csproj",
         "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "C:\\MyProjects\\KEEPNET\\SEND_PROJECT\\Web\\TestWebApp\\obj\\",
+        "outputPath": "C:\\MyProjects\\KEEPNET\\SHARE_PROJECT\\Web\\TestWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -95,8 +95,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\MyProjects\\KEEPNET\\SEND_PROJECT\\Services\\Core\\LMS.Services.Core.Dto\\LMS.Services.Core.Dto.csproj": {
-                "projectPath": "C:\\MyProjects\\KEEPNET\\SEND_PROJECT\\Services\\Core\\LMS.Services.Core.Dto\\LMS.Services.Core.Dto.csproj"
+              "C:\\MyProjects\\KEEPNET\\SHARE_PROJECT\\Services\\Core\\LMS.Services.Core.Dto\\LMS.Services.Core.Dto.csproj": {
+                "projectPath": "C:\\MyProjects\\KEEPNET\\SHARE_PROJECT\\Services\\Core\\LMS.Services.Core.Dto\\LMS.Services.Core.Dto.csproj"
               }
             }
           }

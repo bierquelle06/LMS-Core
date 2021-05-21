@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "na+5rUiI7LfXcgTMBL0JIS2Fv5wmenDehdsdc9wf545GhJCSZz8QYNKk6EhMZH2pOBgJ2ju71IlCRl6xEMFSuQ==",
+  "dgSpecHash": "T9Spp3kmZqWJXwoU+cNF86GPzYBqqgfKnhh0bvtxHaj1jJphIZAx2R1y7sCnnOQQHQL61/ysK+6hlVMpgL2yjg==",
   "success": true,
-  "projectFilePath": "C:\\MyProjects\\KEEPNET\\SEND_PROJECT\\Services\\Core\\LMS.Services.Core.Webapi\\LMS.Services.Core.Webapi.csproj",
+  "projectFilePath": "C:\\MyProjects\\KEEPNET\\SHARE_PROJECT\\Services\\Core\\LMS.Services.Core.Webapi\\LMS.Services.Core.Webapi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Acer\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\Acer\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
