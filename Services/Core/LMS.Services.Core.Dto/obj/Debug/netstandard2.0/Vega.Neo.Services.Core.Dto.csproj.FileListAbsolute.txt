@@ -1,0 +1,12 @@
+C:\MyProjects\VEGA\Vega.Neo.Git\src\Services\Core\Vega.Neo.Services.Core.Dto\bin\Debug\netstandard2.0\Vega.Neo.Services.Core.Dto.deps.json
+C:\MyProjects\VEGA\Vega.Neo.Git\src\Services\Core\Vega.Neo.Services.Core.Dto\bin\Debug\netstandard2.0\Vega.Neo.Services.Core.Dto.dll
+C:\MyProjects\VEGA\Vega.Neo.Git\src\Services\Core\Vega.Neo.Services.Core.Dto\bin\Debug\netstandard2.0\Vega.Neo.Services.Core.Dto.pdb
+C:\MyProjects\VEGA\Vega.Neo.Git\src\Services\Core\Vega.Neo.Services.Core.Dto\bin\Debug\netstandard2.0\Vega.Neo.Common.Model.dll
+C:\MyProjects\VEGA\Vega.Neo.Git\src\Services\Core\Vega.Neo.Services.Core.Dto\bin\Debug\netstandard2.0\Vega.Neo.Common.Model.pdb
+C:\MyProjects\VEGA\Vega.Neo.Git\src\Services\Core\Vega.Neo.Services.Core.Dto\obj\Debug\netstandard2.0\Vega.Neo.Services.Core.Dto.csprojAssemblyReference.cache
+C:\MyProjects\VEGA\Vega.Neo.Git\src\Services\Core\Vega.Neo.Services.Core.Dto\obj\Debug\netstandard2.0\Vega.Neo.Services.Core.Dto.AssemblyInfoInputs.cache
+C:\MyProjects\VEGA\Vega.Neo.Git\src\Services\Core\Vega.Neo.Services.Core.Dto\obj\Debug\netstandard2.0\Vega.Neo.Services.Core.Dto.AssemblyInfo.cs
+C:\MyProjects\VEGA\Vega.Neo.Git\src\Services\Core\Vega.Neo.Services.Core.Dto\obj\Debug\netstandard2.0\Vega.Neo.Services.Core.Dto.csproj.CoreCompileInputs.cache
+C:\MyProjects\VEGA\Vega.Neo.Git\src\Services\Core\Vega.Neo.Services.Core.Dto\obj\Debug\netstandard2.0\Vega.Neo.Services.Core.Dto.csproj.CopyComplete
+C:\MyProjects\VEGA\Vega.Neo.Git\src\Services\Core\Vega.Neo.Services.Core.Dto\obj\Debug\netstandard2.0\Vega.Neo.Services.Core.Dto.dll
+C:\MyProjects\VEGA\Vega.Neo.Git\src\Services\Core\Vega.Neo.Services.Core.Dto\obj\Debug\netstandard2.0\Vega.Neo.Services.Core.Dto.pdb

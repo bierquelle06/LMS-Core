@@ -1,0 +1,85 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{AE815AC2-40B8-4E05-9A5F-0C83540C3CCE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Gateways", "Gateways", "{164E49DC-800A-4322-8A33-D709C850A10C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Web", "Web", "{6D59542F-D3AC-4B54-B24A-BDF57D90122A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{8E8606AE-5C9F-4374-AD1C-D420617D3019}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{0A1D254A-C2EA-4B53-A648-96AE0931E598}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LMS.Services.Core.Domain", "Services\Core\LMS.Services.Core.Domain\LMS.Services.Core.Domain.csproj", "{72BA8E48-D94A-47D4-96E1-6227AD347B43}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LMS.Services.Core.Dto", "Services\Core\LMS.Services.Core.Dto\LMS.Services.Core.Dto.csproj", "{CF2D2402-1437-4FC5-BC06-26A6CABBD5B5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LMS.Services.Core.Service", "Services\Core\LMS.Services.Core.Service\LMS.Services.Core.Service.csproj", "{65A176EE-D185-4716-B811-15ACD6AEEFB6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LMS.Services.Core.Repository", "Services\Core\LMS.Services.Core.Repository\LMS.Services.Core.Repository.csproj", "{1CF5CA48-B16F-4BA8-A0B0-38E6C68BBEAA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LMS.Services.Core.Webapi", "Services\Core\LMS.Services.Core.Webapi\LMS.Services.Core.Webapi.csproj", "{353B04FD-0496-4C67-A297-0E572895C1C6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{48FE4261-7F3A-41AD-83F2-6444C5C92649}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestWebApp", "Web\TestWebApp\TestWebApp.csproj", "{710C8334-F92A-49F3-9EA4-60BF7B309DDA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CommonDLLs", "CommonDLLs", "{274A92EF-6255-4833-AC9E-9425FCD6B57C}"
+	ProjectSection(SolutionItems) = preProject
+		CommonDLLs\LMS.Common.Core.DataAccess.dll = CommonDLLs\LMS.Common.Core.DataAccess.dll
+		CommonDLLs\LMS.Common.Core.dll = CommonDLLs\LMS.Common.Core.dll
+		CommonDLLs\LMS.Common.Language.dll = CommonDLLs\LMS.Common.Language.dll
+		CommonDLLs\LMS.Common.Model.dll = CommonDLLs\LMS.Common.Model.dll
+		CommonDLLs\LMS.Common.RabbitMq.dll = CommonDLLs\LMS.Common.RabbitMq.dll
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72BA8E48-D94A-47D4-96E1-6227AD347B43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72BA8E48-D94A-47D4-96E1-6227AD347B43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72BA8E48-D94A-47D4-96E1-6227AD347B43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72BA8E48-D94A-47D4-96E1-6227AD347B43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF2D2402-1437-4FC5-BC06-26A6CABBD5B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF2D2402-1437-4FC5-BC06-26A6CABBD5B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF2D2402-1437-4FC5-BC06-26A6CABBD5B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF2D2402-1437-4FC5-BC06-26A6CABBD5B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65A176EE-D185-4716-B811-15ACD6AEEFB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65A176EE-D185-4716-B811-15ACD6AEEFB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65A176EE-D185-4716-B811-15ACD6AEEFB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65A176EE-D185-4716-B811-15ACD6AEEFB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CF5CA48-B16F-4BA8-A0B0-38E6C68BBEAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CF5CA48-B16F-4BA8-A0B0-38E6C68BBEAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CF5CA48-B16F-4BA8-A0B0-38E6C68BBEAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CF5CA48-B16F-4BA8-A0B0-38E6C68BBEAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{353B04FD-0496-4C67-A297-0E572895C1C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{353B04FD-0496-4C67-A297-0E572895C1C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{353B04FD-0496-4C67-A297-0E572895C1C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{353B04FD-0496-4C67-A297-0E572895C1C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{710C8334-F92A-49F3-9EA4-60BF7B309DDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{710C8334-F92A-49F3-9EA4-60BF7B309DDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{710C8334-F92A-49F3-9EA4-60BF7B309DDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{710C8334-F92A-49F3-9EA4-60BF7B309DDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0A1D254A-C2EA-4B53-A648-96AE0931E598} = {8E8606AE-5C9F-4374-AD1C-D420617D3019}
+		{72BA8E48-D94A-47D4-96E1-6227AD347B43} = {0A1D254A-C2EA-4B53-A648-96AE0931E598}
+		{CF2D2402-1437-4FC5-BC06-26A6CABBD5B5} = {0A1D254A-C2EA-4B53-A648-96AE0931E598}
+		{65A176EE-D185-4716-B811-15ACD6AEEFB6} = {0A1D254A-C2EA-4B53-A648-96AE0931E598}
+		{1CF5CA48-B16F-4BA8-A0B0-38E6C68BBEAA} = {0A1D254A-C2EA-4B53-A648-96AE0931E598}
+		{353B04FD-0496-4C67-A297-0E572895C1C6} = {0A1D254A-C2EA-4B53-A648-96AE0931E598}
+		{710C8334-F92A-49F3-9EA4-60BF7B309DDA} = {6D59542F-D3AC-4B54-B24A-BDF57D90122A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9681E812-C44D-4EF1-A56F-E0E0380A7136}
+	EndGlobalSection
+EndGlobal

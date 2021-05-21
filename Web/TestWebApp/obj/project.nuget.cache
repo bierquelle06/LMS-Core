@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "goQpSu3+FPydmxFvDECuqYT7dxPjOv27usH8KTgnATqwFp4H3NBZy8gFn5vQpeL40dEtSkYM/dexhBqq+GTtaw==",
+  "success": true,
+  "projectFilePath": "C:\\MyProjects\\KEEPNET\\SEND_PROJECT\\Web\\TestWebApp\\TestWebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

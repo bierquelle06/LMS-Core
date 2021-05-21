@@ -1,0 +1,29 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+	<h1 class="display-4">Welcome to My Application with my Architecture</h1>
+	<p>My Information : <a href="https://www.aykutaktas.net">Aykut AKTAŞ</a>.</p>
+
+	<ul>
+		<li>
+			<code>
+				1. You need install : docker installation.<br />
+				2. You need <b>docker-compose files</b> for finish to installation.
+			</code>
+		</li>
+		<li>
+			<br />
+			<a class="btn btn-success" asp-area="" asp-controller="Home" asp-action="CreateDepartment">1. Create Departmants</a>
+			<a class="btn btn-success" asp-area="" asp-controller="Home" asp-action="CreateUser">2. Create Students</a>
+			<a class="btn btn-success" asp-area="" asp-controller="Home" asp-action="CreateDepartmantEducation">3. Create Departmant Educations</a>
+		</li>
+		<li>
+			<br />
+			<a class="btn btn-success" asp-area="" asp-controller="Home" asp-action="GetDepartmantEducation">Get Departmant Education</a>
+			<a class="btn btn-success" asp-area="" asp-controller="Home" asp-action="GenerateAndStoreDepartmantEducation">Generate And Store</a>
+			<a class="btn btn-success" asp-area="" asp-controller="Home" asp-action="GenerateAndStoreDepartmantEducationClear">Generate And Store (Clear)</a>
+		</li>
+	</ul>
+</div>

@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.7" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.7">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\LMS.Services.Core.Domain\LMS.Services.Core.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="LMS.Common.Core">
+      <HintPath>..\..\..\CommonDLLs\LMS.Common.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="LMS.Common.Core.DataAccess">
+      <HintPath>..\..\..\CommonDLLs\LMS.Common.Core.DataAccess.dll</HintPath>
+    </Reference>
+    <Reference Include="LMS.Common.Model">
+      <HintPath>..\..\..\CommonDLLs\LMS.Common.Model.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

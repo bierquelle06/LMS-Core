@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zHiHQwuA1G+tUX6+qa1XI8SFGD6NkJhm/ghSgPa0nFTwOlmD4vNYY/ozBQhoBc59T6C4joD1om71s0TLOxELEw==",
+  "success": true,
+  "projectFilePath": "C:\\MyProjects\\KEEPNET\\SEND_PROJECT\\Services\\Core\\LMS.Services.Core.Dto\\LMS.Services.Core.Dto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

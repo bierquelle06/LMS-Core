@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>LMS.Services.Core.Webapi</name>
+    </assembly>
+    <members>
+        <member name="M:LMS.Services.Core.Webapi.Controllers.LmsController.GetDepartmantByCode(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="code"></param>
+            <returns></returns>
+        </member>
+        <member name="M:LMS.Services.Core.Webapi.Controllers.LmsController.GetUserByUsername(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="username"></param>
+            <returns></returns>
+        </member>
+        <member name="M:LMS.Services.Core.Webapi.Controllers.LmsController.CreateDepartment(System.Collections.Generic.List{LMS.Services.Core.Dto.Identity.DepartmantDto})">
+            <summary>
+            
+            </summary>
+            <param name="queryList"></param>
+            <returns></returns>
+        </member>
+        <member name="M:LMS.Services.Core.Webapi.Controllers.LmsController.CreateUser(System.Collections.Generic.List{LMS.Services.Core.Dto.Identity.UserDto})">
+            <summary>
+            
+            </summary>
+            <param name="userDtos"></param>
+            <returns></returns>
+        </member>
+        <member name="M:LMS.Services.Core.Webapi.Controllers.LmsController.CreateDepartmantEducation(System.Collections.Generic.List{LMS.Services.Core.Dto.Identity.DepartmantEducationDto})">
+            <summary>
+            
+            </summary>
+            <param name="departmantEducationDtos"></param>
+            <returns></returns>
+        </member>
+        <member name="M:LMS.Services.Core.Webapi.Controllers.LmsController.GetDepartmantEducationResultByUser(LMS.Services.Core.Dto.Identity.DepartmantEducationsResultDto)">
+            <summary>
+            GetDepartmantEducationResultByCode
+            </summary>
+            <param name="departmantEducationDtos"></param>
+            <returns></returns>
+        </member>
+        <member name="T:LMS.Services.Core.Webapi.Redis.IDistributedCacheExtensions">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:LMS.Services.Core.Webapi.Redis.IDistributedCacheExtensions.SetAsync``1(Microsoft.Extensions.Caching.Distributed.IDistributedCache,System.String,``0,Microsoft.Extensions.Caching.Distributed.DistributedCacheEntryOptions)">
+            <summary>
+            
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="cache"></param>
+            <param name="key"></param>
+            <param name="value"></param>
+            <param name="options"></param>
+            <returns></returns>
+        </member>
+        <member name="M:LMS.Services.Core.Webapi.Redis.IDistributedCacheExtensions.GetAsync``1(Microsoft.Extensions.Caching.Distributed.IDistributedCache,System.String)">
+            <summary>
+            
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="cache"></param>
+            <param name="key"></param>
+            <returns></returns>
+        </member>
+        <member name="M:LMS.Services.Core.Webapi.Redis.IDistributedCacheExtensions.SetAsync(Microsoft.Extensions.Caching.Distributed.IDistributedCache,System.String,System.String,Microsoft.Extensions.Caching.Distributed.DistributedCacheEntryOptions)">
+            <summary>
+            
+            </summary>
+            <param name="cache"></param>
+            <param name="key"></param>
+            <param name="value"></param>
+            <param name="options"></param>
+            <returns></returns>
+        </member>
+        <member name="M:LMS.Services.Core.Webapi.Redis.IDistributedCacheExtensions.GetAsync(Microsoft.Extensions.Caching.Distributed.IDistributedCache,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="cache"></param>
+            <param name="key"></param>
+            <returns></returns>
+        </member>
+        <member name="P:LMS.Services.Core.Webapi.Startup._configuration">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:LMS.Services.Core.Webapi.Startup._webHostEnvironment">
+            <summary>
+            
+            </summary>
+        </member>
+    </members>
+</doc>

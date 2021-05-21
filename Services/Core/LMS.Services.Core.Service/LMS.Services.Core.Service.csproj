@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\LMS.Services.Core.Domain\LMS.Services.Core.Domain.csproj" />
+    <ProjectReference Include="..\LMS.Services.Core.Dto\LMS.Services.Core.Dto.csproj" />
+    <ProjectReference Include="..\LMS.Services.Core.Repository\LMS.Services.Core.Repository.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="LMS.Common.Core">
+      <HintPath>..\..\..\CommonDLLs\LMS.Common.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="LMS.Common.Core.DataAccess">
+      <HintPath>..\..\..\CommonDLLs\LMS.Common.Core.DataAccess.dll</HintPath>
+    </Reference>
+    <Reference Include="LMS.Common.Model">
+      <HintPath>..\..\..\CommonDLLs\LMS.Common.Model.dll</HintPath>
+    </Reference>
+    <Reference Include="LMS.Common.RabbitMq">
+      <HintPath>..\..\..\CommonDLLs\LMS.Common.RabbitMq.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

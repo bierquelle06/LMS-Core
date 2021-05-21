@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Vega.Neo.Services.Core.Webapi</name>
+    </assembly>
+    <members>
+        <member name="M:Vega.Neo.Services.Core.Webapi.Controllers.CurrencyController.Add(Vega.Neo.Common.Model.Query{Vega.Neo.Services.Core.Dto.Currency.CurrencyDto})">
+            <summary>
+            this function is to add new currency
+            </summary>
+            <param name="query">param should be a currency object</param>
+            <returns>return the currency object after adding it to database 
+            and it will contain the id 
+            </returns>
+        </member>
+        <member name="M:Vega.Neo.Services.Core.Webapi.Controllers.CurrencyController.Update(Vega.Neo.Common.Model.Query{Vega.Neo.Services.Core.Dto.Currency.CurrencyDto})">
+            <summary>
+            this function is to update an existed currency
+            </summary>
+            <param name="query">param should be a currency object</param>
+            <returns>return the currency object after updating thedatabase 
+            and it will contain the id 
+            </returns>
+        </member>
+        <member name="M:Vega.Neo.Services.Core.Webapi.Controllers.CurrencyController.Get(Vega.Neo.Common.Model.Query{Vega.Neo.Services.Core.Dto.Currency.CurrencyDto})">
+            <summary>
+            this function is to get currency from database by its id
+            </summary>
+            <param name="query">param should be a currency object 
+            thant contain and id of the currency</param>
+            <returns>return the currency object from the database 
+            </returns>
+        </member>
+        <member name="M:Vega.Neo.Services.Core.Webapi.Controllers.CurrencyController.GetList(Vega.Neo.Common.Model.Query{Vega.Neo.Services.Core.Dto.Currency.CurrencyDto})">
+            <summary>
+            this function is to list of currencies
+            </summary>
+            <param name="query"></param>
+            <returns>return the list currencies from database 
+            </returns>
+        </member>
+        <member name="M:Vega.Neo.Services.Core.Webapi.Controllers.CurrencyController.AddExchangeRate(Vega.Neo.Common.Model.Query{Vega.Neo.Services.Core.Dto.Currency.ExchangeRateDto})">
+            <summary>
+            this function is to add an exchange rate 
+            </summary>
+            <param name="query">Query should have an exchange rate object as parameter
+            this rate should have source and destination currency and valid value for the rate
+            </param>
+            <returns>return the list currencies from database 
+            </returns>
+        </member>
+        <member name="M:Vega.Neo.Services.Core.Webapi.Controllers.CurrencyController.AddExchangeRateRange(Vega.Neo.Common.Model.Query{System.Collections.Generic.List{Vega.Neo.Services.Core.Dto.Currency.ExchangeRateDto}})">
+            <summary>
+            this function is to add an exchange rate 
+            </summary>
+            <param name="query">Query should have an exchange rate object as parameter
+            this rate should have source and destination currency and valid value for the rate
+            </param>
+            <returns>return the list currencies from database 
+            </returns>
+        </member>
+        <member name="M:Vega.Neo.Services.Core.Webapi.Controllers.CurrencyController.GetLastExchangeRate(Vega.Neo.Common.Model.Query{Vega.Neo.Services.Core.Dto.Currency.ExchangeRateDto})">
+            <summary>
+            this function is to add an exchange rate 
+            </summary>
+            <param name="query">Query should have an exchange rate object as parameter
+            this rate should have source and destination currency  
+            </param>
+            <returns>return the list currencies from database 
+            </returns>
+        </member>
+        <member name="M:Vega.Neo.Services.Core.Webapi.Controllers.CurrencyController.SearchExchangeRate(Vega.Neo.Common.Model.Query{Vega.Neo.Services.Core.Dto.Currency.SearchExchangeRate})">
+            <summary>
+            this function is to add an exchange rate 
+            </summary>
+            <param name="query">Query should have an exchange rate object as parameter
+            this rate should have source and destination currency  
+            </param>
+            <returns>return the list currencies from database 
+            </returns>
+        </member>
+        <member name="M:Vega.Neo.Services.Core.Webapi.Controllers.TaxRateController.Add(Vega.Neo.Common.Model.Query{Vega.Neo.Services.Core.Dto.TaxRate.TaxRateDto})">
+            <summary>
+            this function is to add new tax rate
+            </summary>
+            <param name="query">param should be a tax rate object</param>
+            <returns>return the tax rate object after adding it to database 
+            and it will contain the id 
+            </returns>
+        </member>
+        <member name="M:Vega.Neo.Services.Core.Webapi.Controllers.TaxRateController.Update(Vega.Neo.Common.Model.Query{Vega.Neo.Services.Core.Dto.TaxRate.TaxRateDto})">
+            <summary>
+            this function is to update new tax rate
+            </summary>
+            <param name="query">param should be a tax rate object</param>
+            <returns></returns>
+        </member>
+        <member name="M:Vega.Neo.Services.Core.Webapi.Controllers.TaxRateController.GetAsync(Vega.Neo.Common.Model.Query{Vega.Neo.Services.Core.Dto.TaxRate.TaxRateDto})">
+            <summary>
+            this function is to get tax rate
+            </summary>
+            <param name="query">param should be a tax rate object with id </param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
